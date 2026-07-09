@@ -1,0 +1,9 @@
+﻿.env
+olx_bot.db
+bot.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
